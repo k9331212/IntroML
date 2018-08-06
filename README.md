@@ -1,2 +1,2 @@
-# IntroML
+# Labs
 My Labs
